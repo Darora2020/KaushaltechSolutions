@@ -5,26 +5,26 @@
 <!--[if IE 9 ]><html class="ie ie9" lang="en-US"> <![endif]-->
 <!--[if (gt IE 9)|!(IE)]><!--><html lang="en-US"> <!--<![endif]-->
 <head>
-	<title>A2Z Naukri | HR Recruitment Staffing Training RPO Campus | </title>
+	<title>Kaushalteck Solutions, Inc. | Innovation Working For You | </title>
 	<meta name="description" content=" | " />
 	<meta charset="UTF-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="profile" href="//gmpg.org/xfn/11" />
-		<link rel="icon" href="http://www.a2zlimited.com/a2zl_demo/wp-content/themes/theme52547/favicon.ico" type="image/x-icon" />
+		<link rel="icon" href="http://www.kaushaltechsolutions.com.com/a2zl_demo/wp-content/themes/theme52547/favicon.ico" type="image/x-icon" />
 	
-		<link rel="pingback" href="http://www.a2zlimited.com/xmlrpc.php" />
-	<link rel="alternate" type="application/rss+xml" title="A2Z Naukri | HR Recruitment Staffing Training RPO Campus" href="http://www.a2zlimited.com/feed/" />
-	<link rel="alternate" type="application/atom+xml" title="A2Z Naukri | HR Recruitment Staffing Training RPO Campus" href="http://www.a2zlimited.com/feed/atom/" />
-	<link rel="stylesheet" type="text/css" media="all" href="http://www.a2zlimited.com/wp-content/themes/theme52547/bootstrap/css/bootstrap.css" />
-	<link rel="stylesheet" type="text/css" media="all" href="http://www.a2zlimited.com/wp-content/themes/theme52547/bootstrap/css/responsive.css" />
-	<link rel="stylesheet" type="text/css" media="all" href="http://www.a2zlimited.com/wp-content/themes/CherryFramework/css/camera.css" />
-	<link rel="stylesheet" type="text/css" media="all" href="http://www.a2zlimited.com/wp-content/themes/theme52547/style.css" />
+		<link rel="pingback" href="http://www.kaushaltechsolutions.com.com/xmlrpc.php" />
+	<link rel="alternate" type="application/rss+xml" title="Kaushalteck Solutions, Inc. | Innovation Working For You" href="http://www.kaushaltechsolutions.com.com/feed/" />
+	<link rel="alternate" type="application/atom+xml" title="Kaushalteck Solutions, Inc. | Innovation Working For You" href="http://www.kaushaltechsolutions.com.com/feed/atom/" />
+	<link rel="stylesheet" type="text/css" media="all" href="http://www.kaushaltechsolutions.com.com/wp-content/themes/theme52547/bootstrap/css/bootstrap.css" />
+	<link rel="stylesheet" type="text/css" media="all" href="http://www.kaushaltechsolutions.com.com/wp-content/themes/theme52547/bootstrap/css/responsive.css" />
+	<link rel="stylesheet" type="text/css" media="all" href="http://www.kaushaltechsolutions.com.com/wp-content/themes/CherryFramework/css/camera.css" />
+	<link rel="stylesheet" type="text/css" media="all" href="http://www.kaushaltechsolutions.com.com/wp-content/themes/theme52547/style.css" />
 	<meta name='robots' content='noindex,follow' />
-<link rel="alternate" type="application/rss+xml" title="A2Z Naukri | HR Recruitment Staffing Training RPO Campus &raquo; Feed" href="http://www.a2zlimited.com/feed/" />
-<link rel="alternate" type="application/rss+xml" title="A2Z Naukri | HR Recruitment Staffing Training RPO Campus &raquo; Comments Feed" href="http://www.a2zlimited.com/comments/feed/" />
-<link rel="alternate" type="application/rss+xml" title="A2Z Naukri | HR Recruitment Staffing Training RPO Campus &raquo; Home Comments Feed" href="http://www.a2zlimited.com/home/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Kaushalteck Solutions, Inc. | Innovation Working For You &raquo; Feed" href="http://www.kaushaltechsolutions.com.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Kaushalteck Solutions, Inc. | Innovation Working For You &raquo; Comments Feed" href="http://www.kaushaltechsolutions.com.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Kaushalteck Solutions, Inc. | Innovation Working For You &raquo; Home Comments Feed" href="http://www.kaushaltechsolutions.com.com/home/feed/" />
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.a2zlimited.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.4"}};
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.kaushaltechsolutions.com.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.4"}};
 			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
 		</script>
 		<style type="text/css">
@@ -41,47 +41,47 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel='stylesheet' id='flexslider-css'  href='http://www.a2zlimited.com/wp-content/plugins/cherry-plugin/lib/js/FlexSlider/flexslider.css?ver=2.2.0' type='text/css' media='all' />
-<link rel='stylesheet' id='owl-carousel-css'  href='http://www.a2zlimited.com/wp-content/plugins/cherry-plugin/lib/js/owl-carousel/owl.carousel.css?ver=1.24' type='text/css' media='all' />
-<link rel='stylesheet' id='owl-theme-css'  href='http://www.a2zlimited.com/wp-content/plugins/cherry-plugin/lib/js/owl-carousel/owl.theme.css?ver=1.24' type='text/css' media='all' />
+<link rel='stylesheet' id='flexslider-css'  href='http://www.kaushaltechsolutions.com.com/wp-content/plugins/cherry-plugin/lib/js/FlexSlider/flexslider.css?ver=2.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-css'  href='http://www.kaushaltechsolutions.com.com/wp-content/plugins/cherry-plugin/lib/js/owl-carousel/owl.carousel.css?ver=1.24' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-theme-css'  href='http://www.kaushaltechsolutions.com.com/wp-content/plugins/cherry-plugin/lib/js/owl-carousel/owl.theme.css?ver=1.24' type='text/css' media='all' />
 <link rel='stylesheet' id='font-awesome-css'  href='//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css?ver=3.2.1' type='text/css' media='all' />
-<link rel='stylesheet' id='cherry-plugin-css'  href='http://www.a2zlimited.com/wp-content/plugins/cherry-plugin/includes/css/cherry-plugin.css?ver=1.2.6' type='text/css' media='all' />
-<link rel='stylesheet' id='cherry-lazy-load-css'  href='http://www.a2zlimited.com/wp-content/plugins/cherry-lazy-load/css/lazy-load.css?ver=1.0' type='text/css' media='all' />
-<link rel='stylesheet' id='cherry-parallax-css'  href='http://www.a2zlimited.com/wp-content/plugins/cherry-parallax/css/parallax.css?ver=1.0.0' type='text/css' media='all' />
-<link rel='stylesheet' id='contact-form-7-css'  href='http://www.a2zlimited.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.2.1' type='text/css' media='all' />
-<link rel='stylesheet' id='chosen-css'  href='http://www.a2zlimited.com/wp-content/plugins/wp-job-manager/assets/css/chosen.css?ver=4.2.4' type='text/css' media='all' />
-<link rel='stylesheet' id='wp-job-manager-frontend-css'  href='http://www.a2zlimited.com/wp-content/plugins/wp-job-manager/assets/css/frontend.css?ver=4.2.4' type='text/css' media='all' />
-<link rel='stylesheet' id='btn-css'  href='http://www.a2zlimited.com/wp-content/themes/theme52547/css/btn.css?ver=4.2.4' type='text/css' media='all' />
-<link rel='stylesheet' id='theme52547-css'  href='http://www.a2zlimited.com/wp-content/themes/theme52547/main-style.css' type='text/css' media='all' />
-<link rel='stylesheet' id='magnific-popup-css'  href='http://www.a2zlimited.com/wp-content/themes/CherryFramework/css/magnific-popup.css?ver=0.9.3' type='text/css' media='all' />
+<link rel='stylesheet' id='cherry-plugin-css'  href='http://www.kaushaltechsolutions.com.com/wp-content/plugins/cherry-plugin/includes/css/cherry-plugin.css?ver=1.2.6' type='text/css' media='all' />
+<link rel='stylesheet' id='cherry-lazy-load-css'  href='http://www.kaushaltechsolutions.com.com/wp-content/plugins/cherry-lazy-load/css/lazy-load.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='cherry-parallax-css'  href='http://www.kaushaltechsolutions.com.com/wp-content/plugins/cherry-parallax/css/parallax.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.kaushaltechsolutions.com.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='chosen-css'  href='http://www.kaushaltechsolutions.com.com/wp-content/plugins/wp-job-manager/assets/css/chosen.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-job-manager-frontend-css'  href='http://www.kaushaltechsolutions.com.com/wp-content/plugins/wp-job-manager/assets/css/frontend.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='btn-css'  href='http://www.kaushaltechsolutions.com.com/wp-content/themes/theme52547/css/btn.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='theme52547-css'  href='http://www.kaushaltechsolutions.com.com/wp-content/themes/theme52547/main-style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css'  href='http://www.kaushaltechsolutions.com.com/wp-content/themes/CherryFramework/css/magnific-popup.css?ver=0.9.3' type='text/css' media='all' />
 <link rel='stylesheet' id='options_typography_Raleway:100-css'  href='//fonts.googleapis.com/css?family=Raleway:100&#038;subset=latin' type='text/css' media='all' />
 <link rel='stylesheet' id='options_typography_Lato-css'  href='//fonts.googleapis.com/css?family=Lato&#038;subset=latin' type='text/css' media='all' />
-<link rel='stylesheet' id='mpce-theme-css'  href='http://www.a2zlimited.com/wp-content/plugins/motopress-content-editor/includes/css/theme.css?ver=1.6.0' type='text/css' media='all' />
-<link rel='stylesheet' id='mpce-bootstrap-grid-css'  href='http://www.a2zlimited.com/wp-content/plugins/motopress-content-editor/bootstrap/bootstrap-grid.min.css?ver=1.6.0' type='text/css' media='all' />
-<script type='text/javascript' src='http://www.a2zlimited.com/wp-content/themes/theme52547/js/jquery-2.1.3.min.js?ver=2.1.3'></script>
-<script type='text/javascript' src='http://www.a2zlimited.com/wp-content/themes/theme52547/js/btn.js?ver=1.0'></script>
-<script type='text/javascript' src='http://www.a2zlimited.com/wp-content/themes/theme52547/js/my_script.js?ver=1.0'></script>
-<script type='text/javascript' src='http://www.a2zlimited.com/wp-content/themes/theme52547/js/jquery.formstyler.min.js?ver=1.0'></script>
-<script type='text/javascript' src='http://www.a2zlimited.com/wp-content/themes/theme52547/js/jquery.placeholder.js?ver=1.0'></script>
-<script type='text/javascript' src='http://www.a2zlimited.com/wp-content/themes/theme52547/js/circles.min.js?ver=1.0'></script>
-<script type='text/javascript' src='http://www.a2zlimited.com/wp-content/themes/CherryFramework/js/jquery-migrate-1.2.1.min.js?ver=1.2.1'></script>
-<script type='text/javascript' src='http://www.a2zlimited.com/wp-includes/js/swfobject.js?ver=2.2-20120417'></script>
-<script type='text/javascript' src='http://www.a2zlimited.com/wp-content/themes/CherryFramework/js/modernizr.js?ver=2.0.6'></script>
-<script type='text/javascript' src='http://www.a2zlimited.com/wp-content/themes/CherryFramework/js/jflickrfeed.js?ver=1.0'></script>
-<script type='text/javascript' src='http://www.a2zlimited.com/wp-content/plugins/cherry-plugin/lib/js/jquery.easing.1.3.js?ver=1.3'></script>
-<script type='text/javascript' src='http://www.a2zlimited.com/wp-content/themes/CherryFramework/js/custom.js?ver=1.0'></script>
-<script type='text/javascript' src='http://www.a2zlimited.com/wp-content/themes/CherryFramework/bootstrap/js/bootstrap.min.js?ver=2.3.0'></script>
-<script type='text/javascript' src='http://www.a2zlimited.com/wp-content/plugins/cherry-plugin/lib/js/elasti-carousel/jquery.elastislide.js?ver=1.2.6'></script>
+<link rel='stylesheet' id='mpce-theme-css'  href='http://www.kaushaltechsolutions.com.com/wp-content/plugins/motopress-content-editor/includes/css/theme.css?ver=1.6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='mpce-bootstrap-grid-css'  href='http://www.kaushaltechsolutions.com.com/wp-content/plugins/motopress-content-editor/bootstrap/bootstrap-grid.min.css?ver=1.6.0' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.kaushaltechsolutions.com.com/wp-content/themes/theme52547/js/jquery-2.1.3.min.js?ver=2.1.3'></script>
+<script type='text/javascript' src='http://www.kaushaltechsolutions.com.com/wp-content/themes/theme52547/js/btn.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.kaushaltechsolutions.com.com/wp-content/themes/theme52547/js/my_script.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.kaushaltechsolutions.com.com/wp-content/themes/theme52547/js/jquery.formstyler.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.kaushaltechsolutions.com.com/wp-content/themes/theme52547/js/jquery.placeholder.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.kaushaltechsolutions.com.com/wp-content/themes/theme52547/js/circles.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.kaushaltechsolutions.com.com/wp-content/themes/CherryFramework/js/jquery-migrate-1.2.1.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.kaushaltechsolutions.com.com/wp-includes/js/swfobject.js?ver=2.2-20120417'></script>
+<script type='text/javascript' src='http://www.kaushaltechsolutions.com.com/wp-content/themes/CherryFramework/js/modernizr.js?ver=2.0.6'></script>
+<script type='text/javascript' src='http://www.kaushaltechsolutions.com.com/wp-content/themes/CherryFramework/js/jflickrfeed.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.kaushaltechsolutions.com.com/wp-content/plugins/cherry-plugin/lib/js/jquery.easing.1.3.js?ver=1.3'></script>
+<script type='text/javascript' src='http://www.kaushaltechsolutions.com.com/wp-content/themes/CherryFramework/js/custom.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.kaushaltechsolutions.com.com/wp-content/themes/CherryFramework/bootstrap/js/bootstrap.min.js?ver=2.3.0'></script>
+<script type='text/javascript' src='http://www.kaushaltechsolutions.com.com/wp-content/plugins/cherry-plugin/lib/js/elasti-carousel/jquery.elastislide.js?ver=1.2.6'></script>
 <script type='text/javascript' src='//maps.googleapis.com/maps/api/js?v=3.exp&#038;sensor=false&#038;ver=4.2.4'></script>
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.a2zlimited.com/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.a2zlimited.com/wp-includes/wlwmanifest.xml" /> 
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.kaushaltechsolutions.com.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.kaushaltechsolutions.com.com/wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 4.2.4" />
-<link rel='canonical' href='http://www.a2zlimited.com/' />
-<link rel='shortlink' href='http://www.a2zlimited.com/' />
+<link rel='canonical' href='http://www.kaushaltechsolutions.com.com/' />
+<link rel='shortlink' href='http://www.kaushaltechsolutions.com.com/' />
 <script>
- var system_folder = 'http://www.a2zlimited.com/wp-content/themes/CherryFramework/admin/data_management/',
-	 CHILD_URL ='http://www.a2zlimited.com/wp-content/themes/theme52547',
-	 PARENT_URL = 'http://www.a2zlimited.com/wp-content/themes/CherryFramework', 
+ var system_folder = 'http://www.kaushaltechsolutions.com.com/wp-content/themes/CherryFramework/admin/data_management/',
+	 CHILD_URL ='http://www.kaushaltechsolutions.com.com/wp-content/themes/theme52547',
+	 PARENT_URL = 'http://www.kaushaltechsolutions.com.com/wp-content/themes/CherryFramework', 
 	 CURRENT_THEME = 'theme52547'</script>
 <style type='text/css'>
 body { background-color:#ffffff }
@@ -109,7 +109,7 @@ body { font-weight: normal;}
 		</div>
 	<![endif]-->
 	<!--[if gte IE 9]><!-->
-		<script src="http://www.a2zlimited.com/wp-content/themes/CherryFramework/js/jquery.mobile.customized.min.js" type="text/javascript"></script>
+		<script src="http://www.kaushaltechsolutions.com.com/wp-content/themes/CherryFramework/js/jquery.mobile.customized.min.js" type="text/javascript"></script>
 		<script type="text/javascript">
 			jQuery(function(){
 				jQuery('.sf-menu').mobileMenu({defaultText: "Navigate to..."});
@@ -173,7 +173,7 @@ body { font-weight: normal;}
 			<div class="span4" data-motopress-type="static" data-motopress-static-file="static/static-logo.php">
 				<!-- BEGIN LOGO -->
 <div class="logo pull-left">
-									<a href="http://www.a2zlimited.com/" class="logo_h logo_h__img"><img src="http://www.a2zlimited.com/a2zl_demo/wp-content/uploads/2015/07/unnamed.png" alt="A2Z Naukri | HR Recruitment Staffing Training RPO Campus" title=""></a>
+									<a href="http://www.kaushaltechsolutions.com.com/" class="logo_h logo_h__img"><img src="http://www.kaushaltechsolutions.com.com/a2zl_demo/wp-content/uploads/2015/07/unnamed.png" alt="Kaushalteck Solutions, Inc. | Innovation Working For You" title=""></a>
 				</div>
 <!-- END LOGO -->			</div>
 			<div class="span8" data-motopress-type="static" data-motopress-static-file="static/static-nav.php">
@@ -189,7 +189,7 @@ body { font-weight: normal;}
 </ul>
 </li>
 <li id="menu-item-2095" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="#contactsPage">Contacts</a></li>
-<li class='menu-item auth log-in'><a href="http://www.a2zlimited.com/wp-login.php?action=login&amp;redirect_to=/" title="Sign In">Sign In</a></li></ul></nav><!-- END MAIN NAVIGATION -->			</div>
+<li class='menu-item auth log-in'><a href="http://www.kaushaltechsolutions.com.com/wp-login.php?action=login&amp;redirect_to=/" title="Sign In">Sign In</a></li></ul></nav><!-- END MAIN NAVIGATION -->			</div>
 		</div>
 	</div>
 						</div>
@@ -218,11 +218,11 @@ body { font-weight: normal;}
 	});
 </script>
 
-<div id="parallax-slider-55daa2e6f3c70" class="parallax-slider"><ul class="baseList"><li data-preview="http://www.a2zlimited.com/wp-content/uploads/2015/07/slider-1.jpg" data-thumb-url="http://www.a2zlimited.com/wp-content/uploads/2015/07/slider-1.jpg" data-ulr-link="" ><div class="slider_caption"><h2><strong>Human</strong><br>
+<div id="parallax-slider-55daa2e6f3c70" class="parallax-slider"><ul class="baseList"><li data-preview="http://www.kaushaltechsolutions.com.com/wp-content/uploads/2015/07/slider-1.jpg" data-thumb-url="http://www.kaushaltechsolutions.com.com/wp-content/uploads/2015/07/slider-1.jpg" data-ulr-link="" ><div class="slider_caption"><h2><strong>Human</strong><br>
 Resource Management</h2>
-</div></li><li data-preview="http://www.a2zlimited.com/wp-content/uploads/2015/07/slider-2.jpg" data-thumb-url="http://www.a2zlimited.com/wp-content/uploads/2015/07/slider-2.jpg" data-ulr-link="" ><div class="slider_caption"><h2>Staffing<br>
+</div></li><li data-preview="http://www.kaushaltechsolutions.com.com/wp-content/uploads/2015/07/slider-2.jpg" data-thumb-url="http://www.kaushaltechsolutions.com.com/wp-content/uploads/2015/07/slider-2.jpg" data-ulr-link="" ><div class="slider_caption"><h2>Staffing<br>
 <strong>solutions</strong> </h2>
-</div></li><li data-preview="http://www.a2zlimited.com/wp-content/uploads/2015/07/slider-3.jpg" data-thumb-url="http://www.a2zlimited.com/wp-content/uploads/2015/07/slider-3.jpg" data-ulr-link="" ><div class="slider_caption"><h2>Recruitment </br>
+</div></li><li data-preview="http://www.kaushaltechsolutions.com.com/wp-content/uploads/2015/07/slider-3.jpg" data-thumb-url="http://www.kaushaltechsolutions.com.com/wp-content/uploads/2015/07/slider-3.jpg" data-ulr-link="" ><div class="slider_caption"><h2>Recruitment </br>
 <strong>Reimagined</strong></h2>
 </div></li></ul></div>
 
@@ -247,7 +247,7 @@ Resource Management</h2>
 employers</h1>
 </section></div>
 <div class="span6 "><section class="lazy-load-box trigger effect-slidefromright " data-delay="200" data-speed="600" style="-webkit-transition: all 600ms ease; -moz-transition: all 600ms ease; -ms-transition: all 600ms ease; -o-transition: all 600ms ease; transition: all 600ms ease;">
-<p style="font-size: 16px; text-align: justify;">A<span style="font-size: 21px;">2</span>Z Naukri - one of the leading Executive Search, Talent Management, Employer branding, HR Consulting &amp; RPO solution providers with multi domain expertise which helps us serve our customers with premium consulting. With business interest spread across India, A2Z Naukri consults many fortune 500 &amp; large Indian corporate in identifying key talent to meet global challenges to improve productivity while reducing cost. Our expert team of advisors are ready to take your call and help you deliver your talent objectives – so please <a href="#contactsPage">get in touch today.</a></p>
+<p style="font-size: 16px; text-align: justify;">A<span style="font-size: 21px;">2</span>Z Naukri - one of the leading Executive Search, Talent Management, Employer branding, HR Consulting &amp; RPO solution providers with multi domain expertise which helps us serve our customers with premium consulting. With business interest spread across India, Kaushalteck Solutions, Inc. consults many fortune 500 &amp; large Indian corporate in identifying key talent to meet global challenges to improve productivity while reducing cost. Our expert team of advisors are ready to take your call and help you deliver your talent objectives – so please <a href="#contactsPage">get in touch today.</a></p>
 </section></div>
 </div> <!-- .row (end) -->
 <div class="clear"></div></div><!-- .content_box (end) -->
@@ -317,7 +317,7 @@ employers</h1>
 </section></div>
 </div> <!-- .row (end) -->
 <div style="width: 100%; background: rgba(255, 107, 0, 0.729412);"><center style="padding-left: 30px;"><span style="color: white; font-size: 18px;">Our clients spend less time interviewing higher quality candidates. Our client's brand is protected in the hiring market</span></center></div>
-<div class="clear"></div></div><div class="parallax-bg" data-parallax-type="image" data-img-url="http://www.a2zlimited.com/a2zl_demo/wp-content/uploads/2015/07/parallax-home-1.jpg" data-speed="normal" data-invert="false" ></div></section>
+<div class="clear"></div></div><div class="parallax-bg" data-parallax-type="image" data-img-url="http://www.kaushaltechsolutions.com.com/a2zl_demo/wp-content/uploads/2015/07/parallax-home-1.jpg" data-speed="normal" data-invert="false" ></div></section>
 <div class="spacer"></div><!-- .spacer (end) -->
 <div class="hashAncor" id="aboutPage"></div>
 <p>&nbsp;</p>
@@ -328,22 +328,22 @@ employers</h1>
 <p>&nbsp;</p>
 <div class="row ">
 <div class="span6 "><section class="lazy-load-box trigger effect-slidefromleft " data-delay="0" data-speed="600" style="-webkit-transition: all 600ms ease; -moz-transition: all 600ms ease; -ms-transition: all 600ms ease; -o-transition: all 600ms ease; transition: all 600ms ease;">
-<p style="text-align: left;"><div class="service-box right"><figure class="icon"><img src="http://www.a2zlimited.com/wp-content/themes/theme52547/images/i2.png" alt="" /></figure><div class="service-box_body"><h2 class="title"><a href="#" title="" target="_self">Multi Location Teams – 'One' Account Manager </a></h2><div class="service-box_txt">We assign one dedicated Global Manager to you, to rely on completely, though we have a global team .  <a href='http://www.a2zlimited.com/a2zl_demo/?p=2255'>Read More</a></div></div></div><!-- /Service Box -->
+<p style="text-align: left;"><div class="service-box right"><figure class="icon"><img src="http://www.kaushaltechsolutions.com.com/wp-content/themes/theme52547/images/i2.png" alt="" /></figure><div class="service-box_body"><h2 class="title"><a href="#" title="" target="_self">Multi Location Teams – 'One' Account Manager </a></h2><div class="service-box_txt">We assign one dedicated Global Manager to you, to rely on completely, though we have a global team .  <a href='http://www.kaushaltechsolutions.com.com/a2zl_demo/?p=2255'>Read More</a></div></div></div><!-- /Service Box -->
 </section>
 <section class="lazy-load-box trigger effect-slidefromleft " data-delay="400" data-speed="600" style="-webkit-transition: all 600ms ease; -moz-transition: all 600ms ease; -ms-transition: all 600ms ease; -o-transition: all 600ms ease; transition: all 600ms ease;">
-<div class="service-box right"><figure class="icon"><img src="http://www.a2zlimited.com/wp-content/themes/theme52547/images/i5.png" alt="" /></figure><div class="service-box_body"><h2 class="title"><a href="#" title="" target="_self">Veteran Talent Hunting Techniques</a></h2><div class="service-box_txt">Every Talent Account Manager is trained exceptionally well to ensure his/her ability to identify, approach, head hunt and convert. <a href='http://www.a2zlimited.com/a2zl_demo/?p=2255'>Read More</a></div></div></div><!-- /Service Box -->
+<div class="service-box right"><figure class="icon"><img src="http://www.kaushaltechsolutions.com.com/wp-content/themes/theme52547/images/i5.png" alt="" /></figure><div class="service-box_body"><h2 class="title"><a href="#" title="" target="_self">Veteran Talent Hunting Techniques</a></h2><div class="service-box_txt">Every Talent Account Manager is trained exceptionally well to ensure his/her ability to identify, approach, head hunt and convert. <a href='http://www.kaushaltechsolutions.com.com/a2zl_demo/?p=2255'>Read More</a></div></div></div><!-- /Service Box -->
 </section>
 <section class="lazy-load-box trigger effect-slidefromleft " data-delay="800" data-speed="600" style="-webkit-transition: all 600ms ease; -moz-transition: all 600ms ease; -ms-transition: all 600ms ease; -o-transition: all 600ms ease; transition: all 600ms ease;">
-<div class="service-box right"><figure class="icon"><img src="http://www.a2zlimited.com/wp-content/themes/theme52547/images/i4.png" alt="" /></figure><div class="service-box_body"><h2 class="title"><a href="#" title="" target="_self">Comprehensive Assessment Process</a></h2><div class="service-box_txt">There are Different levels of Assessment process in A2Z Naukri. Our Regular Process has 33% more steps than that of usual / traditional methods. <a href='http://www.a2zlimited.com/a2zl_demo/?p=2255'>Read More</a></div></div></div><!-- /Service Box -->
+<div class="service-box right"><figure class="icon"><img src="http://www.kaushaltechsolutions.com.com/wp-content/themes/theme52547/images/i4.png" alt="" /></figure><div class="service-box_body"><h2 class="title"><a href="#" title="" target="_self">Comprehensive Assessment Process</a></h2><div class="service-box_txt">There are Different levels of Assessment process in Kaushalteck Solutions, Inc.. Our Regular Process has 33% more steps than that of usual / traditional methods. <a href='http://www.kaushaltechsolutions.com.com/a2zl_demo/?p=2255'>Read More</a></div></div></div><!-- /Service Box -->
 </section></div>
 <div class="span6 "><section class="lazy-load-box trigger effect-slidefromright " data-delay="200" data-speed="600" style="-webkit-transition: all 600ms ease; -moz-transition: all 600ms ease; -ms-transition: all 600ms ease; -o-transition: all 600ms ease; transition: all 600ms ease;">
-<div class="service-box "><figure class="icon"><img src="http://www.a2zlimited.com/wp-content/themes/theme52547/images/i3.png" alt="" /></figure><div class="service-box_body"><h2 class="title"><a href="#" title="" target="_self">Remarkable Results </a></h2><div class="service-box_txt">We were a small team in 2007, and have multi-domain, multi-location expertise today owing to the results we have achieved for our clients. <a href='http://www.a2zlimited.com/a2zl_demo/?p=2255'>Read More</a> </div></div></div><!-- /Service Box -->
+<div class="service-box "><figure class="icon"><img src="http://www.kaushaltechsolutions.com.com/wp-content/themes/theme52547/images/i3.png" alt="" /></figure><div class="service-box_body"><h2 class="title"><a href="#" title="" target="_self">Remarkable Results </a></h2><div class="service-box_txt">We were a small team in 2007, and have multi-domain, multi-location expertise today owing to the results we have achieved for our clients. <a href='http://www.kaushaltechsolutions.com.com/a2zl_demo/?p=2255'>Read More</a> </div></div></div><!-- /Service Box -->
 </section>
 <section class="lazy-load-box trigger effect-slidefromright " data-delay="600" data-speed="600" style="-webkit-transition: all 600ms ease; -moz-transition: all 600ms ease; -ms-transition: all 600ms ease; -o-transition: all 600ms ease; transition: all 600ms ease;">
-<div class="service-box "><figure class="icon"><img src="http://www.a2zlimited.com/wp-content/themes/theme52547/images/i6.png" alt="" /></figure><div class="service-box_body"><h2 class="title"><a href="#" title="" target="_self">Diverse Talent Pool </a></h2><div class="service-box_txt">With the help of our new concept and model, we have been able to attract diverse talents to join A2Z Naukri and step up the ladder to their Career ahead in a magnificent way. <a href='http://www.a2zlimited.com/a2zl_demo/?p=2255'>Read More</a></div></div></div><!-- /Service Box -->
+<div class="service-box "><figure class="icon"><img src="http://www.kaushaltechsolutions.com.com/wp-content/themes/theme52547/images/i6.png" alt="" /></figure><div class="service-box_body"><h2 class="title"><a href="#" title="" target="_self">Diverse Talent Pool </a></h2><div class="service-box_txt">With the help of our new concept and model, we have been able to attract diverse talents to join Kaushalteck Solutions, Inc. and step up the ladder to their Career ahead in a magnificent way. <a href='http://www.kaushaltechsolutions.com.com/a2zl_demo/?p=2255'>Read More</a></div></div></div><!-- /Service Box -->
 </section>
 <section class="lazy-load-box trigger effect-slidefromright " data-delay="1000" data-speed="600" style="-webkit-transition: all 600ms ease; -moz-transition: all 600ms ease; -ms-transition: all 600ms ease; -o-transition: all 600ms ease; transition: all 600ms ease;">
-<div class="service-box "><figure class="icon"><img src="http://www.a2zlimited.com/wp-content/themes/theme52547/images/i1.png" alt="" /></figure><div class="service-box_body"><h2 class="title"><a href="#" title="" target="_self">Zest and Ethics</a></h2><div class="service-box_txt">We are different from the Recruitment Industry we represent, as we approach Talent sourcing, Talent assessment and Talent management from a different bend. <a href='http://www.a2zlimited.com/a2zl_demo/?p=2255'>Read More</a></div></div></div><!-- /Service Box -->
+<div class="service-box "><figure class="icon"><img src="http://www.kaushaltechsolutions.com.com/wp-content/themes/theme52547/images/i1.png" alt="" /></figure><div class="service-box_body"><h2 class="title"><a href="#" title="" target="_self">Zest and Ethics</a></h2><div class="service-box_txt">We are different from the Recruitment Industry we represent, as we approach Talent sourcing, Talent assessment and Talent management from a different bend. <a href='http://www.kaushaltechsolutions.com.com/a2zl_demo/?p=2255'>Read More</a></div></div></div><!-- /Service Box -->
 </section></div>
 </div> <!-- .row (end) -->
 <div class="spacer"></div><!-- .spacer (end) -->
@@ -357,7 +357,7 @@ employers</h1>
 <p style="text-align: justify; padding-left: 60px;">Bored by the invention of the superficial kind we want to take things further. Tear out the plans and start again and then take another brave step. We see the future and then knock down the walls to reach it. Insist the dream is possible. Overcome all indecision and take the running jump into the unchartered. We want more because our goal isn’t to improve what is done before but to totally reimagine it.</p>
 </section></div>
 </div> <!-- .row (end) -->
-<div class="clear"></div></div><div class="parallax-bg" data-parallax-type="image" data-img-url="http://www.a2zlimited.com/a2zl_demo/wp-content/uploads/2015/07/parallax-blog.jpg" data-speed="normal" data-invert="false" ></div></section>
+<div class="clear"></div></div><div class="parallax-bg" data-parallax-type="image" data-img-url="http://www.kaushaltechsolutions.com.com/a2zl_demo/wp-content/uploads/2015/07/parallax-blog.jpg" data-speed="normal" data-invert="false" ></div></section>
 <div class="spacer"></div><!-- .spacer (end) -->
 <div class="hashAncor" id="service"></div>
 <p>&nbsp;</p>
@@ -367,40 +367,40 @@ employers</h1>
 <p></center>&nbsp;</p>
 <div class="row ">
 <div class="span6 "><section class="lazy-load-box trigger effect-slidefromleft " data-delay="0" data-speed="600" style="-webkit-transition: all 600ms ease; -moz-transition: all 600ms ease; -ms-transition: all 600ms ease; -o-transition: all 600ms ease; transition: all 600ms ease;">
-<p style="text-align: left;"><div class="service-box right"><figure class="icon"><img src="http://www.a2zlimited.com/wp-content/themes/theme52547/images/icon777.png" alt="" /></figure><div class="service-box_body"><h2 class="title"><a href="#" title="" target="_self">Assurance &amp; Delivery</a></h2><div class="service-box_txt">Maximum results with Minimum Cost. This is a good alternative in the case, if you have had bitter experience of paying a retainer for an agency and they became complacent. <a href='http://www.a2zlimited.com/a2zl_demo/?p=2217'>Read More</a></div></div></div><!-- /Service Box -->
+<p style="text-align: left;"><div class="service-box right"><figure class="icon"><img src="http://www.kaushaltechsolutions.com.com/wp-content/themes/theme52547/images/icon777.png" alt="" /></figure><div class="service-box_body"><h2 class="title"><a href="#" title="" target="_self">Assurance &amp; Delivery</a></h2><div class="service-box_txt">Maximum results with Minimum Cost. This is a good alternative in the case, if you have had bitter experience of paying a retainer for an agency and they became complacent. <a href='http://www.kaushaltechsolutions.com.com/a2zl_demo/?p=2217'>Read More</a></div></div></div><!-- /Service Box -->
 </section>
 <section class="lazy-load-box trigger effect-slidefromleft " data-delay="400" data-speed="600" style="-webkit-transition: all 600ms ease; -moz-transition: all 600ms ease; -ms-transition: all 600ms ease; -o-transition: all 600ms ease; transition: all 600ms ease;">
-<div class="service-box right"><figure class="icon"><img src="http://www.a2zlimited.com/wp-content/themes/theme52547/images/icon11.png" alt="" /></figure><div class="service-box_body"><h2 class="title"><a href="#" title="" target="_self">Accomplishment Based</a></h2><div class="service-box_txt">In 2014 over 90% of our Hires are from the Passive Talent. Our accomplishment Based Model Supports your In-House team  <a href='http://www.a2zlimited.com/a2zl_demo/?p=2217'>Read More</a></div></div></div><!-- /Service Box -->
+<div class="service-box right"><figure class="icon"><img src="http://www.kaushaltechsolutions.com.com/wp-content/themes/theme52547/images/icon11.png" alt="" /></figure><div class="service-box_body"><h2 class="title"><a href="#" title="" target="_self">Accomplishment Based</a></h2><div class="service-box_txt">In 2014 over 90% of our Hires are from the Passive Talent. Our accomplishment Based Model Supports your In-House team  <a href='http://www.kaushaltechsolutions.com.com/a2zl_demo/?p=2217'>Read More</a></div></div></div><!-- /Service Box -->
 </section>
 <section class="lazy-load-box trigger effect-slidefromleft " data-delay="800" data-speed="600" style="-webkit-transition: all 600ms ease; -moz-transition: all 600ms ease; -ms-transition: all 600ms ease; -o-transition: all 600ms ease; transition: all 600ms ease;">
-<div class="service-box right"><figure class="icon"><img src="http://www.a2zlimited.com/wp-content/themes/theme52547/images/icon1000.png" alt="" /></figure><div class="service-box_body"><h2 class="title"><a href="#" title="" target="_self">Executive Search</a></h2><div class="service-box_txt">Over a period of time have developed and maintained deep rooted Contacts and relationships with C Level Executives who are currently serving out of many fortune 500 companies.  <a href='http://www.a2zlimited.com/a2zl_demo/?p=2217'>Read More</a></div></div></div><!-- /Service Box -->
+<div class="service-box right"><figure class="icon"><img src="http://www.kaushaltechsolutions.com.com/wp-content/themes/theme52547/images/icon1000.png" alt="" /></figure><div class="service-box_body"><h2 class="title"><a href="#" title="" target="_self">Executive Search</a></h2><div class="service-box_txt">Over a period of time have developed and maintained deep rooted Contacts and relationships with C Level Executives who are currently serving out of many fortune 500 companies.  <a href='http://www.kaushaltechsolutions.com.com/a2zl_demo/?p=2217'>Read More</a></div></div></div><!-- /Service Box -->
 </section></div>
 <div class="span6 "><section class="lazy-load-box trigger effect-slidefromright " data-delay="200" data-speed="600" style="-webkit-transition: all 600ms ease; -moz-transition: all 600ms ease; -ms-transition: all 600ms ease; -o-transition: all 600ms ease; transition: all 600ms ease;">
-<div class="service-box "><figure class="icon"><img src="http://www.a2zlimited.com/wp-content/themes/theme52547/images/icon12.png" alt="" /></figure><div class="service-box_body"><h2 class="title"><a href="#" title="" target="_self">Rang Rut</a></h2><div class="service-box_txt">Our Rang Rut / Early Talent with the Success DNA enables our clients to tap into new talent pools at a more affordable rate. <a href='http://www.a2zlimited.com/a2zl_demo/?p=2217'>Read More</a></div></div></div><!-- /Service Box -->
+<div class="service-box "><figure class="icon"><img src="http://www.kaushaltechsolutions.com.com/wp-content/themes/theme52547/images/icon12.png" alt="" /></figure><div class="service-box_body"><h2 class="title"><a href="#" title="" target="_self">Rang Rut</a></h2><div class="service-box_txt">Our Rang Rut / Early Talent with the Success DNA enables our clients to tap into new talent pools at a more affordable rate. <a href='http://www.kaushaltechsolutions.com.com/a2zl_demo/?p=2217'>Read More</a></div></div></div><!-- /Service Box -->
 </section>
 <section class="lazy-load-box trigger effect-slidefromright " data-delay="600" data-speed="600" style="-webkit-transition: all 600ms ease; -moz-transition: all 600ms ease; -ms-transition: all 600ms ease; -o-transition: all 600ms ease; transition: all 600ms ease;">
-<div class="service-box "><figure class="icon"><img src="http://www.a2zlimited.com/wp-content/themes/theme52547/images/icon999.png" alt="" /></figure><div class="service-box_body"><h2 class="title"><a href="#" title="" target="_self">RPO</a></h2><div class="service-box_txt">If you are a Fast Growing Organization and the New Hires are a task for your HR, our RPO solution is the Best option to easen this task for your HR.<a href='http://www.a2zlimited.com/a2zl_demo/?p=2217'>Read More</a></div></div></div><!-- /Service Box -->
+<div class="service-box "><figure class="icon"><img src="http://www.kaushaltechsolutions.com.com/wp-content/themes/theme52547/images/icon999.png" alt="" /></figure><div class="service-box_body"><h2 class="title"><a href="#" title="" target="_self">RPO</a></h2><div class="service-box_txt">If you are a Fast Growing Organization and the New Hires are a task for your HR, our RPO solution is the Best option to easen this task for your HR.<a href='http://www.kaushaltechsolutions.com.com/a2zl_demo/?p=2217'>Read More</a></div></div></div><!-- /Service Box -->
 </section>
 <section class="lazy-load-box trigger effect-slidefromright " data-delay="1000" data-speed="600" style="-webkit-transition: all 600ms ease; -moz-transition: all 600ms ease; -ms-transition: all 600ms ease; -o-transition: all 600ms ease; transition: all 600ms ease;">
-<div class="service-box "><figure class="icon"><img src="http://www.a2zlimited.com/wp-content/themes/theme52547/images/icon888.png" alt="" /></figure><div class="service-box_body"><h2 class="title"><a href="#" title="" target="_self">HUMAN ANALYTICS</a></h2><div class="service-box_txt">Today’s Science of Hiring, Developing, and Retaining the Best of the Talent. A new talent pool is opened, if you are acquainted with the success DNA.  <a href='http://www.a2zlimited.com/a2zl_demo/?p=2217'>Read More</a></div></div></div><!-- /Service Box -->
+<div class="service-box "><figure class="icon"><img src="http://www.kaushaltechsolutions.com.com/wp-content/themes/theme52547/images/icon888.png" alt="" /></figure><div class="service-box_body"><h2 class="title"><a href="#" title="" target="_self">HUMAN ANALYTICS</a></h2><div class="service-box_txt">Today’s Science of Hiring, Developing, and Retaining the Best of the Talent. A new talent pool is opened, if you are acquainted with the success DNA.  <a href='http://www.kaushaltechsolutions.com.com/a2zl_demo/?p=2217'>Read More</a></div></div></div><!-- /Service Box -->
 </section></div>
 </div> <!-- .row (end) -->
 <div class="spacer"></div><!-- .spacer (end) -->
 <section class="parallax-box video-parallax-box " ><div class="parallax-content">
 <div class="title-box clearfix "><h2 class="title-box_primary">Employment<strong> opportunities</strong> for professionals</h2></div><!-- //.title-box -->
-<div class="clear"></div></div><div class="parallax-bg" data-parallax-type="video" data-img-url="http://www.a2zlimited.com/a2zl_demo/wp-content/uploads/2015/07/parallax-video.jpg" data-speed="none" data-invert="false" ><video class="parallax_media parallax-bg-inner" poster="http://www.a2zlimited.com/a2zl_demo/wp-content/uploads/2015/07/parallax-video.jpg" autoplay loop><source src="http://www.a2zlimited.com/a2zl_demo/wp-content/uploads/2015/07/video.mp4" type="video/mp4"><source src="http://www.a2zlimited.com/a2zl_demo/wp-content/uploads/2015/07/video.webm" type="video/webm"><source src="http://www.a2zlimited.com/a2zl_demo/wp-content/uploads/2015/07/video.ogv" type="video/ogg"></video></div></section>
+<div class="clear"></div></div><div class="parallax-bg" data-parallax-type="video" data-img-url="http://www.kaushaltechsolutions.com.com/a2zl_demo/wp-content/uploads/2015/07/parallax-video.jpg" data-speed="none" data-invert="false" ><video class="parallax_media parallax-bg-inner" poster="http://www.kaushaltechsolutions.com.com/a2zl_demo/wp-content/uploads/2015/07/parallax-video.jpg" autoplay loop><source src="http://www.kaushaltechsolutions.com.com/a2zl_demo/wp-content/uploads/2015/07/video.mp4" type="video/mp4"><source src="http://www.kaushaltechsolutions.com.com/a2zl_demo/wp-content/uploads/2015/07/video.webm" type="video/webm"><source src="http://www.kaushaltechsolutions.com.com/a2zl_demo/wp-content/uploads/2015/07/video.ogv" type="video/ogg"></video></div></section>
 <div class="hashAncor" id="companiesPage"></div>
 <div class="spacer"></div><!-- .spacer (end) -->
 <div class="title-box clearfix "><h2 class="title-box_primary"><span style='color: #32ba85;'>Industries</span> we’ve helped</h2></div><!-- //.title-box -->
 <section class="lazy-load-box trigger effect-slidetop " data-delay="0" data-speed="600" style="-webkit-transition: all 600ms ease; -moz-transition: all 600ms ease; -ms-transition: all 600ms ease; -o-transition: all 600ms ease; transition: all 600ms ease;">
-<ul class="posts-grid row-fluid unstyled companies without-title ul-item-0"><li class="span2 list-item-1"><figure class="featured-thumbnail thumbnail"><a href="http://www.a2zlimited.com/companies-view/healthcare/" title="healthcare"><img  src="http://www.a2zlimited.com/wp-content/uploads/2015/07/12.jpg" alt="healthcare" /></a></figure><div class="clear"></div><div class="desc"><div class="desc-in"></div><div class="helper"></div></div></li><li class="span2 list-item-2"><figure class="featured-thumbnail thumbnail"><a href="http://www.a2zlimited.com/companies-view/telcom/" title="telcom"><img  src="http://www.a2zlimited.com/wp-content/uploads/2015/07/11.jpg" alt="telcom" /></a></figure><div class="clear"></div><div class="desc"><div class="desc-in"></div><div class="helper"></div></div></li><li class="span2 list-item-3"><figure class="featured-thumbnail thumbnail"><a href="http://www.a2zlimited.com/companies-view/ngo/" title="ngo"><img  src="http://www.a2zlimited.com/wp-content/uploads/2015/07/9.jpg" alt="ngo" /></a></figure><div class="clear"></div><div class="desc"><div class="desc-in"></div><div class="helper"></div></div></li><li class="span2 list-item-4"><figure class="featured-thumbnail thumbnail"><a href="http://www.a2zlimited.com/companies-view/real-estate/" title="real estate"><img  src="http://www.a2zlimited.com/wp-content/uploads/2015/07/8.jpg" alt="real estate" /></a></figure><div class="clear"></div><div class="desc"><div class="desc-in"></div><div class="helper"></div></div></li><li class="span2 list-item-5"><figure class="featured-thumbnail thumbnail"><a href="http://www.a2zlimited.com/companies-view/2124/" title="media"><img  src="http://www.a2zlimited.com/wp-content/uploads/2015/07/7.jpg" alt="media" /></a></figure><div class="clear"></div><div class="desc"><div class="desc-in"></div><div class="helper"></div></div></li><li class="span2 list-item-6"><figure class="featured-thumbnail thumbnail"><a href="http://www.a2zlimited.com/companies-view/oil-and-gas/" title="oil and gas"><img  src="http://www.a2zlimited.com/wp-content/uploads/2015/07/6.jpg" alt="oil and gas" /></a></figure><div class="clear"></div><div class="desc"><div class="desc-in"></div><div class="helper"></div></div></li></ul><!-- .posts-grid (end) --><ul class="posts-grid row-fluid unstyled companies without-title ul-item-1"><li class="span2 list-item-1"><figure class="featured-thumbnail thumbnail"><a href="http://www.a2zlimited.com/companies-view/manufacturing/" title="manufacturing"><img  src="http://www.a2zlimited.com/wp-content/uploads/2015/07/111.jpg" alt="manufacturing" /></a></figure><div class="clear"></div><div class="desc"><div class="desc-in"></div><div class="helper"></div></div></li><li class="span2 list-item-2"><figure class="featured-thumbnail thumbnail"><a href="http://www.a2zlimited.com/companies-view/education/" title="education"><img  src="http://www.a2zlimited.com/wp-content/uploads/2015/07/4.jpg" alt="education" /></a></figure><div class="clear"></div><div class="desc"><div class="desc-in"></div><div class="helper"></div></div></li><li class="span2 list-item-3"><figure class="featured-thumbnail thumbnail"><a href="http://www.a2zlimited.com/companies-view/palmer/" title="Palmer"><img  src="http://www.a2zlimited.com/wp-content/uploads/2014/12/0.jpg" alt="Palmer" /></a></figure><div class="clear"></div><div class="desc"><div class="desc-in"></div><div class="helper"></div></div></li><li class="span2 list-item-4"><figure class="featured-thumbnail thumbnail"><a href="http://www.a2zlimited.com/companies-view/discow/" title="banking and finance"><img  src="http://www.a2zlimited.com/wp-content/uploads/2014/12/1.jpg" alt="banking and finance" /></a></figure><div class="clear"></div><div class="desc"><div class="desc-in"></div><div class="helper"></div></div></li><li class="span2 list-item-5"><figure class="featured-thumbnail thumbnail"><a href="http://www.a2zlimited.com/companies-view/wontiak/" title="information and technology"><img  src="http://www.a2zlimited.com/wp-content/uploads/2014/12/2.jpg" alt="information and technology" /></a></figure><div class="clear"></div><div class="desc"><div class="desc-in"></div><div class="helper"></div></div></li><li class="span2 list-item-6"><figure class="featured-thumbnail thumbnail"><a href="http://www.a2zlimited.com/companies-view/globy/" title="call center"><img  src="http://www.a2zlimited.com/wp-content/uploads/2014/12/3.jpg" alt="call center" /></a></figure><div class="clear"></div><div class="desc"><div class="desc-in"></div><div class="helper"></div></div></li></ul><!-- .posts-grid (end) -->
+<ul class="posts-grid row-fluid unstyled companies without-title ul-item-0"><li class="span2 list-item-1"><figure class="featured-thumbnail thumbnail"><a href="http://www.kaushaltechsolutions.com.com/companies-view/healthcare/" title="healthcare"><img  src="http://www.kaushaltechsolutions.com.com/wp-content/uploads/2015/07/12.jpg" alt="healthcare" /></a></figure><div class="clear"></div><div class="desc"><div class="desc-in"></div><div class="helper"></div></div></li><li class="span2 list-item-2"><figure class="featured-thumbnail thumbnail"><a href="http://www.kaushaltechsolutions.com.com/companies-view/telcom/" title="telcom"><img  src="http://www.kaushaltechsolutions.com.com/wp-content/uploads/2015/07/11.jpg" alt="telcom" /></a></figure><div class="clear"></div><div class="desc"><div class="desc-in"></div><div class="helper"></div></div></li><li class="span2 list-item-3"><figure class="featured-thumbnail thumbnail"><a href="http://www.kaushaltechsolutions.com.com/companies-view/ngo/" title="ngo"><img  src="http://www.kaushaltechsolutions.com.com/wp-content/uploads/2015/07/9.jpg" alt="ngo" /></a></figure><div class="clear"></div><div class="desc"><div class="desc-in"></div><div class="helper"></div></div></li><li class="span2 list-item-4"><figure class="featured-thumbnail thumbnail"><a href="http://www.kaushaltechsolutions.com.com/companies-view/real-estate/" title="real estate"><img  src="http://www.kaushaltechsolutions.com.com/wp-content/uploads/2015/07/8.jpg" alt="real estate" /></a></figure><div class="clear"></div><div class="desc"><div class="desc-in"></div><div class="helper"></div></div></li><li class="span2 list-item-5"><figure class="featured-thumbnail thumbnail"><a href="http://www.kaushaltechsolutions.com.com/companies-view/2124/" title="media"><img  src="http://www.kaushaltechsolutions.com.com/wp-content/uploads/2015/07/7.jpg" alt="media" /></a></figure><div class="clear"></div><div class="desc"><div class="desc-in"></div><div class="helper"></div></div></li><li class="span2 list-item-6"><figure class="featured-thumbnail thumbnail"><a href="http://www.kaushaltechsolutions.com.com/companies-view/oil-and-gas/" title="oil and gas"><img  src="http://www.kaushaltechsolutions.com.com/wp-content/uploads/2015/07/6.jpg" alt="oil and gas" /></a></figure><div class="clear"></div><div class="desc"><div class="desc-in"></div><div class="helper"></div></div></li></ul><!-- .posts-grid (end) --><ul class="posts-grid row-fluid unstyled companies without-title ul-item-1"><li class="span2 list-item-1"><figure class="featured-thumbnail thumbnail"><a href="http://www.kaushaltechsolutions.com.com/companies-view/manufacturing/" title="manufacturing"><img  src="http://www.kaushaltechsolutions.com.com/wp-content/uploads/2015/07/111.jpg" alt="manufacturing" /></a></figure><div class="clear"></div><div class="desc"><div class="desc-in"></div><div class="helper"></div></div></li><li class="span2 list-item-2"><figure class="featured-thumbnail thumbnail"><a href="http://www.kaushaltechsolutions.com.com/companies-view/education/" title="education"><img  src="http://www.kaushaltechsolutions.com.com/wp-content/uploads/2015/07/4.jpg" alt="education" /></a></figure><div class="clear"></div><div class="desc"><div class="desc-in"></div><div class="helper"></div></div></li><li class="span2 list-item-3"><figure class="featured-thumbnail thumbnail"><a href="http://www.kaushaltechsolutions.com.com/companies-view/palmer/" title="Palmer"><img  src="http://www.kaushaltechsolutions.com.com/wp-content/uploads/2014/12/0.jpg" alt="Palmer" /></a></figure><div class="clear"></div><div class="desc"><div class="desc-in"></div><div class="helper"></div></div></li><li class="span2 list-item-4"><figure class="featured-thumbnail thumbnail"><a href="http://www.kaushaltechsolutions.com.com/companies-view/discow/" title="banking and finance"><img  src="http://www.kaushaltechsolutions.com.com/wp-content/uploads/2014/12/1.jpg" alt="banking and finance" /></a></figure><div class="clear"></div><div class="desc"><div class="desc-in"></div><div class="helper"></div></div></li><li class="span2 list-item-5"><figure class="featured-thumbnail thumbnail"><a href="http://www.kaushaltechsolutions.com.com/companies-view/wontiak/" title="information and technology"><img  src="http://www.kaushaltechsolutions.com.com/wp-content/uploads/2014/12/2.jpg" alt="information and technology" /></a></figure><div class="clear"></div><div class="desc"><div class="desc-in"></div><div class="helper"></div></div></li><li class="span2 list-item-6"><figure class="featured-thumbnail thumbnail"><a href="http://www.kaushaltechsolutions.com.com/companies-view/globy/" title="call center"><img  src="http://www.kaushaltechsolutions.com.com/wp-content/uploads/2014/12/3.jpg" alt="call center" /></a></figure><div class="clear"></div><div class="desc"><div class="desc-in"></div><div class="helper"></div></div></li></ul><!-- .posts-grid (end) -->
 </section>
 <div class="spacer"></div><!-- .spacer (end) -->
 <div class="content_box green ">
 <div class="hashAncor" id="wordsPage"></div>
 <div class="title-box clearfix "><h2 class="title-box_primary">Kind words from <strong><span style='color: #000;'>happy clients</span></strong></h2></div><!-- //.title-box -->
 <section class="lazy-load-box trigger effect-slidetop " data-delay="0" data-speed="600" style="-webkit-transition: all 600ms ease; -moz-transition: all 600ms ease; -ms-transition: all 600ms ease; -o-transition: all 600ms ease; transition: all 600ms ease;">
-<div class="testimonials testi-home"><div class="testi-item list-item-0"><blockquote class="testi-item_blockquote"><figure class="featured-thumbnail"><img src="http://www.a2zlimited.com/wp-content/uploads/2015/07/112.jpg" alt="" /></figure><div><a href="http://www.a2zlimited.com/testimonial-view/kind-words-from-happy-clients-2/">1) Describe your experience with A2Z Naukri. My experience with A2Z Naukri has been very good. I was sent for an Interview with a Leading&hellip;</a><div class="clear"></div></div></blockquote><small class="testi-meta"><span class="user">Candidate (BFSI IT)</span></small></div><div class="testi-item list-item-1"><blockquote class="testi-item_blockquote"><figure class="featured-thumbnail"><img src="http://www.a2zlimited.com/wp-content/uploads/2015/07/10.jpg" alt="" /></figure><div><a href="http://www.a2zlimited.com/testimonial-view/kind-words-from-happy-clients/">My experience with A2Z Naukri was very good and I surely will recommend A2Z Naukri for Talent Hunting and HR professional services. Gayatri at A2Z&hellip;</a><div class="clear"></div></div></blockquote><small class="testi-meta"><span class="user">Candidate (Product Head)</span></small></div><div class="testi-item list-item-2"><blockquote class="testi-item_blockquote"><figure class="featured-thumbnail"><img src="http://www.a2zlimited.com/wp-content/uploads/2014/12/12.jpg" alt="" /></figure><div><a href="http://www.a2zlimited.com/testimonial-view/testimonial-4/">“A2Z Naukri are qualified professionals, Aggressive, Principled and they really do deliver. Their Comprehensive Model supports sourcing Pan India that others thrash about to deliver&hellip;</a><div class="clear"></div></div></blockquote><small class="testi-meta"><span class="user">VP HR</span></small></div><div class="testi-item list-item-3"><blockquote class="testi-item_blockquote"><figure class="featured-thumbnail"><img src="http://www.a2zlimited.com/wp-content/uploads/2011/07/21.jpg" alt="" /></figure><div><a href="http://www.a2zlimited.com/testimonial-view/testimonial-3/">A2Z Naukri has filled the gap which was there in the Recruitment Industry. RPO partners need to have wide-ranging reach but with A2Z Naukri, their&hellip;</a><div class="clear"></div></div></blockquote><small class="testi-meta"><span class="user">HR Director</span></small></div><div class="testi-item list-item-4"><blockquote class="testi-item_blockquote"><figure class="featured-thumbnail"><img src="http://www.a2zlimited.com/wp-content/uploads/2011/07/41.jpg" alt="" /></figure><div><a href="http://www.a2zlimited.com/testimonial-view/testimonial-2/">We wanted to spread our wings into various territories, in segments like Sales, Services &#038; Support. We appointed A2Z Naukri along with 3 other recruitment&hellip;</a><div class="clear"></div></div></blockquote><small class="testi-meta"><span class="user"> President - World Wide Sales</span></small></div><div class="testi-item list-item-5"><blockquote class="testi-item_blockquote"><figure class="featured-thumbnail"><img src="http://www.a2zlimited.com/wp-content/uploads/2011/07/4.jpg" alt="" /></figure><div><a href="http://www.a2zlimited.com/testimonial-view/testimonial-1/">“A2Z Naukri is now rooted into the HR Segment of our organisation and is taken in, more as an internal HR function that delivers great&hellip;</a><div class="clear"></div></div></blockquote><small class="testi-meta"><span class="user">VP Sales</span></small></div></div>
+<div class="testimonials testi-home"><div class="testi-item list-item-0"><blockquote class="testi-item_blockquote"><figure class="featured-thumbnail"><img src="http://www.kaushaltechsolutions.com.com/wp-content/uploads/2015/07/112.jpg" alt="" /></figure><div><a href="http://www.kaushaltechsolutions.com.com/testimonial-view/kind-words-from-happy-clients-2/">1) Describe your experience with Kaushalteck Solutions, Inc.. My experience with Kaushalteck Solutions, Inc. has been very good. I was sent for an Interview with a Leading&hellip;</a><div class="clear"></div></div></blockquote><small class="testi-meta"><span class="user">Candidate (BFSI IT)</span></small></div><div class="testi-item list-item-1"><blockquote class="testi-item_blockquote"><figure class="featured-thumbnail"><img src="http://www.kaushaltechsolutions.com.com/wp-content/uploads/2015/07/10.jpg" alt="" /></figure><div><a href="http://www.kaushaltechsolutions.com.com/testimonial-view/kind-words-from-happy-clients/">My experience with Kaushalteck Solutions, Inc. was very good and I surely will recommend Kaushalteck Solutions, Inc. for Talent Hunting and HR professional services. Gayatri at A2Z&hellip;</a><div class="clear"></div></div></blockquote><small class="testi-meta"><span class="user">Candidate (Product Head)</span></small></div><div class="testi-item list-item-2"><blockquote class="testi-item_blockquote"><figure class="featured-thumbnail"><img src="http://www.kaushaltechsolutions.com.com/wp-content/uploads/2014/12/12.jpg" alt="" /></figure><div><a href="http://www.kaushaltechsolutions.com.com/testimonial-view/testimonial-4/">“Kaushalteck Solutions, Inc. are qualified professionals, Aggressive, Principled and they really do deliver. Their Comprehensive Model supports sourcing Pan India that others thrash about to deliver&hellip;</a><div class="clear"></div></div></blockquote><small class="testi-meta"><span class="user">VP HR</span></small></div><div class="testi-item list-item-3"><blockquote class="testi-item_blockquote"><figure class="featured-thumbnail"><img src="http://www.kaushaltechsolutions.com.com/wp-content/uploads/2011/07/21.jpg" alt="" /></figure><div><a href="http://www.kaushaltechsolutions.com.com/testimonial-view/testimonial-3/">Kaushalteck Solutions, Inc. has filled the gap which was there in the Recruitment Industry. RPO partners need to have wide-ranging reach but with Kaushalteck Solutions, Inc., their&hellip;</a><div class="clear"></div></div></blockquote><small class="testi-meta"><span class="user">HR Director</span></small></div><div class="testi-item list-item-4"><blockquote class="testi-item_blockquote"><figure class="featured-thumbnail"><img src="http://www.kaushaltechsolutions.com.com/wp-content/uploads/2011/07/41.jpg" alt="" /></figure><div><a href="http://www.kaushaltechsolutions.com.com/testimonial-view/testimonial-2/">We wanted to spread our wings into various territories, in segments like Sales, Services &#038; Support. We appointed Kaushalteck Solutions, Inc. along with 3 other recruitment&hellip;</a><div class="clear"></div></div></blockquote><small class="testi-meta"><span class="user"> President - World Wide Sales</span></small></div><div class="testi-item list-item-5"><blockquote class="testi-item_blockquote"><figure class="featured-thumbnail"><img src="http://www.kaushaltechsolutions.com.com/wp-content/uploads/2011/07/4.jpg" alt="" /></figure><div><a href="http://www.kaushaltechsolutions.com.com/testimonial-view/testimonial-1/">“Kaushalteck Solutions, Inc. is now rooted into the HR Segment of our organisation and is taken in, more as an internal HR function that delivers great&hellip;</a><div class="clear"></div></div></blockquote><small class="testi-meta"><span class="user">VP Sales</span></small></div></div>
 </section>
 <div class="clear"></div></div><!-- .content_box (end) -->
 <div class="hashAncor" id="plansPage"></div>
@@ -412,7 +412,7 @@ employers</h1>
 <div class="span6 "><section class="lazy-load-box trigger effect-slidefromleft " data-delay="0" data-speed="600" style="-webkit-transition: all 600ms ease; -moz-transition: all 600ms ease; -ms-transition: all 600ms ease; -o-transition: all 600ms ease; transition: all 600ms ease;">
 <address class="right">
 <strong><span style="color: #23ba85;">Address:</span></strong><br />
-A2Z Naukri</p>
+Kaushalteck Solutions, Inc.</p>
 <p>A To Z Corporate Solution (P) Ltd.</p>
 <p>Level1, Red Fort Capital Parsvnath Towers,</p>
 <p>Bhai Veer Singh Marg,</p>
@@ -493,7 +493,7 @@ mail@a2znaukri.com<br />
 			  geocoder.geocode( { 'address': address}, function(results, status) {
 				if (status == google.maps.GeocoderStatus.OK) {
 					map.setCenter(results[0].geometry.location);
-					var iconBase = 'http://www.a2zlimited.com/wp-content/themes/theme52547/images/';
+					var iconBase = 'http://www.kaushaltechsolutions.com.com/wp-content/themes/theme52547/images/';
 					var marker = new google.maps.Marker({
 				        map: map,
 				        icon: iconBase + 'map-icon.png',
@@ -515,7 +515,7 @@ mail@a2znaukri.com<br />
 						<div class="row copyright">
 	<div class="span12" data-motopress-type="static" data-motopress-static-file="static/static-footer-text.php">
 		<div id="footer-text" class="footer-text">
-				A2Z Naukri &copy; 2015		</br>
+				Kaushalteck Solutions, Inc. &copy; 2015		</br>
 	<p style="text-align:center;margin-top: 40px; font-size:11px;" > <a href="#"> Bangalore </a> | <a href="#"> Delhi </a> |<a href="#"> Noida </a> |<a href="#"> Gurgaon </a> | <a href="#"> Mumbai </a> | <a href="#"> Pune </a> | <a href="#"> Ahmadabad  </a>| <a href="#"> Lucknow  </a>| <a href="#"> Chandigarh </a>| <a href="#"> Jaipur </a> |<a href="#"> Indore </a> |<a href="#"> Hyderabad </a> |<a href="#"> Chennai </a> </p>
 			<!--More <a rel="nofollow" href="http://www.templatemonster.com/category/job-portal-wordpress-themes/" target="_blank">Job Portal WordPress Themes at TemplateMonster.com</a>-->
 	</div>	</div>
@@ -532,37 +532,37 @@ mail@a2znaukri.com<br />
 		<p id="back-top">
 			<a href="#top"><span></span></a>		</p>
 	</div>
-		<script type='text/javascript' src='http://www.a2zlimited.com/wp-includes/js/comment-reply.min.js?ver=4.2.4'></script>
-<script type='text/javascript' src='http://www.a2zlimited.com/wp-content/plugins/cherry-lazy-load/js/cherry.lazy-load.js?ver=1.0'></script>
-<script type='text/javascript' src='http://www.a2zlimited.com/wp-content/plugins/cherry-lazy-load/js/device.min.js?ver=1.0.0'></script>
-<script type='text/javascript' src='http://www.a2zlimited.com/wp-content/plugins/cherry-parallax/js/jquery.mousewheel.min.js?ver=3.0.6'></script>
-<script type='text/javascript' src='http://www.a2zlimited.com/wp-content/plugins/cherry-parallax/js/jquery.simplr.smoothscroll.min.js?ver=1.0'></script>
-<script type='text/javascript' src='http://www.a2zlimited.com/wp-content/plugins/cherry-parallax/js/cherry.parallax.js?ver=1.0.0'></script>
-<script type='text/javascript' src='http://www.a2zlimited.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+		<script type='text/javascript' src='http://www.kaushaltechsolutions.com.com/wp-includes/js/comment-reply.min.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://www.kaushaltechsolutions.com.com/wp-content/plugins/cherry-lazy-load/js/cherry.lazy-load.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.kaushaltechsolutions.com.com/wp-content/plugins/cherry-lazy-load/js/device.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://www.kaushaltechsolutions.com.com/wp-content/plugins/cherry-parallax/js/jquery.mousewheel.min.js?ver=3.0.6'></script>
+<script type='text/javascript' src='http://www.kaushaltechsolutions.com.com/wp-content/plugins/cherry-parallax/js/jquery.simplr.smoothscroll.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.kaushaltechsolutions.com.com/wp-content/plugins/cherry-parallax/js/cherry.parallax.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://www.kaushaltechsolutions.com.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
-var _wpcf7 = {"loaderUrl":"http:\/\/www.a2zlimited.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+var _wpcf7 = {"loaderUrl":"http:\/\/www.kaushaltechsolutions.com.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
 /* ]]> */
 </script>
-<script type='text/javascript' src='http://www.a2zlimited.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.2.1'></script>
-<script type='text/javascript' src='http://www.a2zlimited.com/wp-content/themes/theme52547/js/waypoints.min.js?ver=1.0'></script>
-<script type='text/javascript' src='http://www.a2zlimited.com/wp-content/themes/theme52547/js/themeScript.js?ver=1.0'></script>
-<script type='text/javascript' src='http://www.a2zlimited.com/wp-content/themes/theme52547/js/scrollShowTime.js?ver=1.0'></script>
-<script type='text/javascript' src='http://www.a2zlimited.com/wp-content/themes/CherryFramework/js/superfish.js?ver=1.5.3'></script>
-<script type='text/javascript' src='http://www.a2zlimited.com/wp-content/themes/CherryFramework/js/jquery.mobilemenu.js?ver=1.0'></script>
-<script type='text/javascript' src='http://www.a2zlimited.com/wp-content/themes/CherryFramework/js/jquery.magnific-popup.min.js?ver=0.9.3'></script>
-<script type='text/javascript' src='http://www.a2zlimited.com/wp-content/plugins/cherry-plugin/lib/js/FlexSlider/jquery.flexslider-min.js?ver=2.2.2'></script>
-<script type='text/javascript' src='http://www.a2zlimited.com/wp-content/themes/CherryFramework/js/jplayer.playlist.min.js?ver=2.3.0'></script>
-<script type='text/javascript' src='http://www.a2zlimited.com/wp-content/themes/CherryFramework/js/jquery.jplayer.min.js?ver=2.6.0'></script>
-<script type='text/javascript' src='http://www.a2zlimited.com/wp-content/themes/CherryFramework/js/tmstickup.js?ver=1.0.0'></script>
-<script type='text/javascript' src='http://www.a2zlimited.com/wp-content/themes/CherryFramework/js/device.min.js?ver=1.0.0'></script>
-<script type='text/javascript' src='http://www.a2zlimited.com/wp-content/themes/CherryFramework/js/jquery.zaccordion.min.js?ver=2.1.0'></script>
-<script type='text/javascript' src='http://www.a2zlimited.com/wp-content/themes/CherryFramework/js/camera.min.js?ver=1.3.4'></script>
-<script type='text/javascript' src='http://www.a2zlimited.com/wp-content/themes/CherryFramework/js/jquery.debouncedresize.js?ver=1.0'></script>
-<script type='text/javascript' src='http://www.a2zlimited.com/wp-content/themes/CherryFramework/js/jquery.ba-resize.min.js?ver=1.1'></script>
-<script type='text/javascript' src='http://www.a2zlimited.com/wp-content/themes/CherryFramework/js/jquery.isotope.js?ver=1.5.25'></script>
-<script type='text/javascript' src='http://www.a2zlimited.com/wp-content/plugins/cherry-plugin/includes/js/cherry-plugin.js?ver=1.2.6'></script>
-<script type='text/javascript' src='http://www.a2zlimited.com/wp-content/themes/theme52547/parallax-slider/js/parallaxSlider.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.kaushaltechsolutions.com.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.2.1'></script>
+<script type='text/javascript' src='http://www.kaushaltechsolutions.com.com/wp-content/themes/theme52547/js/waypoints.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.kaushaltechsolutions.com.com/wp-content/themes/theme52547/js/themeScript.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.kaushaltechsolutions.com.com/wp-content/themes/theme52547/js/scrollShowTime.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.kaushaltechsolutions.com.com/wp-content/themes/CherryFramework/js/superfish.js?ver=1.5.3'></script>
+<script type='text/javascript' src='http://www.kaushaltechsolutions.com.com/wp-content/themes/CherryFramework/js/jquery.mobilemenu.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.kaushaltechsolutions.com.com/wp-content/themes/CherryFramework/js/jquery.magnific-popup.min.js?ver=0.9.3'></script>
+<script type='text/javascript' src='http://www.kaushaltechsolutions.com.com/wp-content/plugins/cherry-plugin/lib/js/FlexSlider/jquery.flexslider-min.js?ver=2.2.2'></script>
+<script type='text/javascript' src='http://www.kaushaltechsolutions.com.com/wp-content/themes/CherryFramework/js/jplayer.playlist.min.js?ver=2.3.0'></script>
+<script type='text/javascript' src='http://www.kaushaltechsolutions.com.com/wp-content/themes/CherryFramework/js/jquery.jplayer.min.js?ver=2.6.0'></script>
+<script type='text/javascript' src='http://www.kaushaltechsolutions.com.com/wp-content/themes/CherryFramework/js/tmstickup.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://www.kaushaltechsolutions.com.com/wp-content/themes/CherryFramework/js/device.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://www.kaushaltechsolutions.com.com/wp-content/themes/CherryFramework/js/jquery.zaccordion.min.js?ver=2.1.0'></script>
+<script type='text/javascript' src='http://www.kaushaltechsolutions.com.com/wp-content/themes/CherryFramework/js/camera.min.js?ver=1.3.4'></script>
+<script type='text/javascript' src='http://www.kaushaltechsolutions.com.com/wp-content/themes/CherryFramework/js/jquery.debouncedresize.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.kaushaltechsolutions.com.com/wp-content/themes/CherryFramework/js/jquery.ba-resize.min.js?ver=1.1'></script>
+<script type='text/javascript' src='http://www.kaushaltechsolutions.com.com/wp-content/themes/CherryFramework/js/jquery.isotope.js?ver=1.5.25'></script>
+<script type='text/javascript' src='http://www.kaushaltechsolutions.com.com/wp-content/plugins/cherry-plugin/includes/js/cherry-plugin.js?ver=1.2.6'></script>
+<script type='text/javascript' src='http://www.kaushaltechsolutions.com.com/wp-content/themes/theme52547/parallax-slider/js/parallaxSlider.js?ver=1.0'></script>
 			<script type="text/javascript">
 				deleteCookie('cf-cookie-banner');
 			</script>
